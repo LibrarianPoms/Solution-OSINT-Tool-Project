@@ -1,0 +1,15 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# React / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Général
+.env
+.DS_Store
+*.log
