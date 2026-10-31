@@ -45,7 +45,7 @@ def home():
     return jsonify({
         "message": "DeepFinder API is running!",
         "version": "1.0",
-        "author": "Aymane Bouras & Omar Chouri"
+        "author": "DeepFinder Core Team"
     })
 
 
